@@ -20,7 +20,7 @@ public class MainActivity extends BaseActivity {
     @Override
     protected void initView(Bundle savedInstanceState) {
         viewWeb = (X5WebView) findViewById(R.id.view_web);
-        viewWeb.loadUrl("http://dj.linshexiaoqu.com/m/");
+        viewWeb.loadUrl("http://qc.linshexiaoqu.com/m/");
     }
 
     @Override
