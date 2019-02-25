@@ -1,4 +1,4 @@
-package com.tanxin.jinxian.view;
+package com.test.tty.view;
 
 import android.annotation.SuppressLint;
 import android.content.Context;

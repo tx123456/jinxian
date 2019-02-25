@@ -1,4 +1,4 @@
-package com.tanxin.jinxian;
+package com.test.tty;
 
 import android.annotation.TargetApi;
 import android.content.Context;
@@ -10,7 +10,7 @@ import android.view.LayoutInflater;
 import android.view.Window;
 import android.view.WindowManager;
 
-import com.tanxin.jinxian.utils.SystemBarTintManager;
+import com.test.tty.utils.SystemBarTintManager;
 
 /**
  * Created by TANXIN on 2017/7/31.

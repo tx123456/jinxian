@@ -1,9 +1,9 @@
-package com.tanxin.jinxian;
+package com.test.tty;
 
 import android.os.Bundle;
 import android.view.KeyEvent;
 
-import com.tanxin.jinxian.view.X5WebView;
+import com.test.tty.view.X5WebView;
 
 public class MainActivity extends BaseActivity {
     X5WebView viewWeb;
@@ -20,7 +20,7 @@ public class MainActivity extends BaseActivity {
     @Override
     protected void initView(Bundle savedInstanceState) {
         viewWeb = (X5WebView) findViewById(R.id.view_web);
-        viewWeb.loadUrl("http://dj.linshexiaoqu.com/index.php?m=mobile");
+        viewWeb.loadUrl("http://www.tongtongying888.com");
     }
 
     @Override

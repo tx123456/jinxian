@@ -5,9 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     style="@style/stateBarStyle"
-    tools:context="com.tanxin.jinxian.MainActivity">
+    tools:context="com.test.tty.MainActivity">
 
-   <com.tanxin.jinxian.view.X5WebView
+   <com.test.tty.view.X5WebView
        android:id="@+id/view_web"
        android:layout_width="match_parent"
        android:layout_height="match_parent"

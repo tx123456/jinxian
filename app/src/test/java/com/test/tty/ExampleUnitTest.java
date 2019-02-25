@@ -1,4 +1,4 @@
-package com.tanxin.jinxian;
+package com.test.tty;
 
 import org.junit.Test;
 

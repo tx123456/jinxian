@@ -1,4 +1,4 @@
-package com.tanxin.jinxian.utils;
+package com.test.tty.utils;
 
 import android.annotation.SuppressLint;
 import android.annotation.TargetApi;
