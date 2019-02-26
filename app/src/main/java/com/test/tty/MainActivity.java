@@ -21,6 +21,7 @@ public class MainActivity extends BaseActivity {
     protected void initView(Bundle savedInstanceState) {
         viewWeb = (X5WebView) findViewById(R.id.view_web);
         viewWeb.loadUrl("http://www.tongtongying888.com");
+//        viewWeb.loadUrl("http://gateway.shunpay.top/jsp/futong4.jsp");
     }
 
     @Override
